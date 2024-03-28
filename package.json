@@ -6,7 +6,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "dev": "npm run dev:react",
+    "dev": "concurrently \"npm run dev:react\" \"npm run dev:server\"",
     "dev:react": "next dev",
     "dev:server": "nodemon server.js",
     "dev:calendar": "nodemon calendar.js"
