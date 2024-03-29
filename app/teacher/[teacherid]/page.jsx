@@ -49,7 +49,8 @@ console.log(formattedDate);
 	
 	return (
 		<div className="h-screen px-4 pt-10 md:pt-0  flex flex-col justify-center">
-			<div className="flex justify-end pr-2 item-start ">
+			<div className="flex justify-between pl-4 pr-2 item-start ">
+				<div className=""><img className='w-32' src='/Logo.png'/></div>
                 <Link className='p-2' href='/teacher/account'>
 				<svg
 					width="36"
