@@ -7,14 +7,14 @@ export default function Home() {
 	return (
 		<div>
 			<nav className="xl:px-16 px-2 py-3 flex xl:justify-between  items-center drop-shadow-xl border-b-2 flex-wrap">
-				<div className="bg-[#141646] items-center flex justify-center rounded-full text-7xl text-primary/50 "><img className='w-32' src='/ScholizareLogo.png'/></div>
+				<div className=""><img className='w-32' src='/Logo.png'/></div>
 				<Link className='text-primary underline' href="/about">Know More</Link>
 				
 			</nav>
 			<main className="flex md:justify-between justify-center items-center xl:px-16  pb-8 flex-wrap-reverse ">
 				<div className="flex flex-col justify-center py-8 ">
 					<div className="text-2xl font-normal font-jacques ">Welcome to</div>
-					<div className="text-6xl  font-jacques ">Scholizare</div>
+					<div className="text-6xl  font-jacques ">LearnUp</div>
 					<div className="text-2xl  font-jacques ">
 						<TypeAnimation
 							sequence={['Your next door learning destination', 10]}
