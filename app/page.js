@@ -14,7 +14,7 @@ export default function Home() {
 			<main className="flex md:justify-between justify-center items-center xl:px-16  pb-8 flex-wrap-reverse ">
 				<div className="flex flex-col justify-center py-8 ">
 					<div className="text-2xl font-normal font-jacques ">Welcome to</div>
-					<div className="text-6xl  font-jacques ">Scholizare</div>
+					<div className="text-6xl  font-jacques ">LearnUp</div>
 					<div className="text-2xl  font-jacques ">
 						<TypeAnimation
 							sequence={['Your next door learning destination', 10]}
