@@ -77,7 +77,7 @@ console.log(formattedDate);
 						Hello {docSnap?.name},
 					</div>
 					<div class="w-96 h-28 text-black text-base font-normal font-['Jacques Francois']">
-						Schoolz provides trained, passionate tutors to support the students
+						LearnUp provides trained, passionate tutors to support the students
 						with recovery from unfinished learning,remediation and enrichment!
 					</div>
                     <div className='flex flex-row justify-between'>
@@ -116,7 +116,7 @@ console.log(formattedDate);
 				<div className='flex  justify-between md:pl-20 pl-4  md:gap-0 mt-6  bg-secondary py-4 rounded-xl  h-fit w-full xl:w-1/2'>
 					<div className='text-5xl font-bold font-merriweather '>View Courses
 					<div class="w-96 h-28 text-black text-base font-normal font-['Jacques Francois'] mt-4">
-						Schoolz provides trained, passionate tutors to support the students
+						LeanUp provides trained, passionate tutors to support the students
 						with recovery from unfinished learning,remediation and enrichment!
 					</div>
 					<Link class="group w-40 h-14 text-white text-xl font-normal font-jacques  bg-primary rounded-2xl drop-shadow-md hover:bg-blue-600	 flex justify-center items-center gap-1"
@@ -150,7 +150,7 @@ console.log(formattedDate);
 				<div className='flex  justify-between md:pl-20 pl-4  md:gap-0 mt-6  bg-secondary py-4 rounded-xl  h-fit w-full  xl:w-1/2'>
 					<div className='text-5xl font-bold font-merriweather '>Check Schedule
 					<div class="w-96 h-28 text-black text-base font-normal font-['Jacques Francois'] mt-4">
-						Schoolz provides trained, passionate tutors to support the students
+						LearnUp provides trained, passionate tutors to support the students
 						with recovery from unfinished learning,remediation and enrichment!
 					</div>
 					<Link class="group w-40 h-14 text-white text-xl font-normal font-jacques  bg-primary rounded-2xl drop-shadow-md hover:bg-blue-600	 flex justify-center items-center gap-1"
